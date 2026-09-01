@@ -2,7 +2,7 @@
 
 This course aims to familiarize graduate students with academia and the conventions of academic research and presentation. Students select research articles published in Korea or abroad and present them in a format modeled on academic conferences. By taking turns as presenters and discussants, students develop critical engagement with research and reflect on academic communication practices.
 
-## 강의 개요
+## 강의 개요 (Course Overview)
 
 | 항목 | 내용 |
 |---|---|
@@ -13,7 +13,7 @@ This course aims to familiarize graduate students with academia and the conventi
 | 역할 구성 | 발표자, 지정 토론자, 리뷰어(모의 동료심사), 리드 토론자(박사과정) |
 | 평가 | 참여도 20% · 발표(국내+해외) 50% · 토론 · 논문 심사 · 최종성찰 리포트 30% |
 
-### 강의 목표
+### 강의 목표 (Course Objectives)
 - 학술논문의 구조(IMRaD)와 학회·저널 시스템, 피어리뷰 과정을 이해한다.
 - 연구윤리와 인용 규범을 숙지하고, 문헌 탐색·관리 도구(EndNote, Zotero 등)를 활용할 수 있다.
 - 국내·해외 논문을 선정하여 학술대회 발표 형식으로 연습하고, 발표 스킬을 향상시킨다.
@@ -21,7 +21,7 @@ This course aims to familiarize graduate students with academia and the conventi
 - **동료심사(Peer Review) 관점에서 논문을 구조적으로 평가하고 리뷰 리포트를 작성할 수 있다.**
 - 발표·토론·리뷰 경험을 성찰하며 연구자로서의 정체성을 형성한다.
 
-### 운영 방식
+### 운영 방식 (Course management)
 - 공식 학사 일정상 15주차로 편성되나, 실제 수업은 **2주에 한 번, 2시간씩 총 8회** 진행.
 - 각 발표 세션은 "발표 20분 + 토론 15분" × 2명 구조로 진행되며, 나머지 시간은 전체 코멘트와 성찰 공유.
 - 발표하지 않는 조원 중 1명이 해당 세션의 **지정 토론자**를 맡고, 박사과정생은 전 세션에서 **리드 토론자 겸 총평자** 역할.
@@ -29,7 +29,7 @@ This course aims to familiarize graduate students with academia and the conventi
 
 ---
 
-## 15주 강의계획
+## 15주 강의계획 (Course Schedule)
 📂 [자료 공유 드라이브](https://drive.google.com/drive/folders/1fAdXRPogwmxIlAKVpAfl9ykkq8s5ETKa?usp=sharing)
 
 | 주차 | 세션 | 주제 | 세부 내용 | 개별 과제 |
@@ -45,11 +45,11 @@ This course aims to familiarize graduate students with academia and the conventi
 
 ---
 
-## 역할 로테이션 (발표 세션 4·5·6·7)
+## Presentation Sessions (발표 세션 4·5·6·7)
 
 발표하지 않는 조원들에게 매 세션마다 **지정 토론자**와 **리뷰어**를 겹치지 않게 배정. 4개 발표 세션에 걸쳐 4명의 학생이 리뷰어 역할을 한 번씩 맡도록 순환시키면, 모든 학생이 발표·토론자·리뷰어 세 역할을 세미나 기간 동안 골고루 경험할 예정. 박사과정생은 4개 세션 전체에서 **리드 토론자 겸 총평자**로 고정 참여.
 
-### 발표 순서
+### Presenters & Discussants
 
 | 주차 | 사회 | 발표 | 토론 |
 |---|---|---|---|
@@ -62,7 +62,7 @@ This course aims to familiarize graduate students with academia and the conventi
 | 7-1 (11/24) | 정ㅇ창  |  강ㅇ경 | 최ㅇ현 |
 | 7-2 (11/24) | 김ㅇ란  | 정ㅇ창 | 조ㅇ민 | 
 
-## 최종 과제 (15주차 제출)
+## Final Assignments (15주차 제출)
 
 1. 전체 세미나 성찰 리포트 (1p)
 2. 논문심사서 제출 (발표 논문 2개)
