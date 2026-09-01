@@ -21,7 +21,7 @@ This course aims to familiarize graduate students with academia and the conventi
 - **동료심사(Peer Review) 관점에서 논문을 구조적으로 평가하고 리뷰 리포트를 작성할 수 있다.**
 - 발표·토론·리뷰 경험을 성찰하며 연구자로서의 정체성을 형성한다.
 
-## 운영 방식 (Course management)
+## 💦 운영 방식 (Course management)
 - 공식 학사 일정상 15주차로 편성되나, 실제 수업은 **2주에 한 번, 2시간씩 총 8회** 진행.
 - 각 발표 세션은 "발표 20분 + 토론 15분" × 2명 구조로 진행되며, 나머지 시간은 전체 코멘트와 성찰 공유.
 - 발표하지 않는 조원 중 1명이 해당 세션의 **지정 토론자**를 맡고, 박사과정생은 전 세션에서 **리드 토론자 겸 총평자** 역할.
