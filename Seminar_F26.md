@@ -15,7 +15,7 @@ This course aims to familiarize graduate students with academia and the conventi
 
 ### 강의 목표
 - 학술논문의 구조(IMRaD)와 학회·저널 시스템, 피어리뷰 과정을 이해한다.
-- 연구윤리와 인용 규범을 숙지하고, 문헌 탐색·관리 도구(Zotero 등)를 활용할 수 있다.
+- 연구윤리와 인용 규범을 숙지하고, 문헌 탐색·관리 도구(EndNote, Zotero 등)를 활용할 수 있다.
 - 국내·해외 논문을 선정하여 학술대회 발표 형식으로 연습하고, 발표 스킬을 향상시킨다.
 - 토론자로서 건설적 피드백과 질문을 제시하는 역량을 기른다.
 - **동료심사(Peer Review) 관점에서 논문을 구조적으로 평가하고 리뷰 리포트를 작성할 수 있다.**
