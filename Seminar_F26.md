@@ -29,7 +29,7 @@ This course aims to familiarize graduate students with academia and the conventi
 
 ---
 
-## 💦 15주 강의계획 (Course Schedule)
+## 📆 15주 강의계획 (Course Schedule)
 📂 [자료 공유 드라이브](https://drive.google.com/drive/folders/1fAdXRPogwmxIlAKVpAfl9ykkq8s5ETKa?usp=sharing)
 
 | 주차 | 세션 | 주제 | 세부 내용 | 개별 과제 |
