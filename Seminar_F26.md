@@ -30,6 +30,7 @@
 ---
 
 ## 15주 강의계획
+📂 [자료 공유 드라이브](https://drive.google.com/drive/folders/1fAdXRPogwmxIlAKVpAfl9ykkq8s5ETKa?usp=sharing)
 
 | 주차 | 세션 | 주제 | 세부 내용 | 개별 과제 |
 |---|---|---|---|---|
