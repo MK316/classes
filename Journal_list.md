@@ -1,10 +1,12 @@
-# 2026 KCI 등재 언어 및 영어교육 분야 학술지 목록 분석 보고서 (v2)
+# 2026 KCI 등재 언어 및 영어교육 분야 학술지 & 대학부설연구소 통합 분석 보고서 (v3)
 
-본 보고서는 KCI 등재지 데이터베이스(`학술지종수_학회_등재(후보)지종수(2026-09-01).csv`)를 바탕으로, **영어교육**과 **언어교육(일반, 한국어, 제2외국어)** 분야에서 공식 등재(또는 우수등재) 판정을 받은 학회 및 학술지 정보를 분류 및 정리한 자료입니다. 피드백을 반영하여 **학회의 공식 영어 명칭(학회명(영문))**을 추가하였습니다.
+본 보고서는 KCI 등재지 데이터베이스(`학술지종수_학회_등재(후보)지종수(2026-09-01).csv`) 및 신규 추가된 KCI 등재(후보) 대학부설연구소 데이터베이스(`기관수_대학부설연구소_등재(후보)(2026-09-01).csv`)를 전격 통합하여 분석한 완성판 자료입니다. 
+
+기존 학회 중심 등재지 목록에 더해, **한국외국어대학교 외국어교육연구소(발행 학술지: 《외국어교육연구》)**를 비롯하여 국내 주요 대학 산하 **언어 및 어학 교육 전문 부설연구소(총 22개)** 정보를 새로 수록하였습니다.
 
 ---
 
-## 1. 영어교육 분야 KCI 등재 학술지 (총 13개)
+## 1. 영어교육 분야 KCI 등재 학술지 (학회 발행 - 총 13개)
 영어교육(English Language Teaching, TEFL/TESOL, ESP 등)을 전문적으로 다루며, KCI 등재지 및 우수등재지 지위를 보유한 학술지 목록입니다.
 
 | 학회명<br>(국문 / 영문) | 학술지명<br>(국문 / 영문) | ISSN | 등재구분 | 발행간기 | 창간년도 |
@@ -17,7 +19,7 @@
 | **한국영미문학교육학회**<br>*The Korean Society For Teaching English Literature* | **영미문학교육**<br>*The Journal of Teaching English Literature* | P: 1229-2249 | 등재 | 연3회 | 199612 |
 | **한국영어교과교육학회**<br>*The Korea English Education Society* | **영어교과교육**<br>*Journal of the Korea English Education Society* | P: 1598-513X<br>E: 2671-6178 | 등재 | 연4회 | 200206 |
 | **한국영어교육학회**<br>*Korea Association Of Teachers Of English* | **영어교육**<br>*English Teaching* | P: 1017-7108<br>E: 2671-9312 | 등재 | 연4회 | 196501 |
-| **한국영어어문교육학회** | **영어어문교육**<br>*English Language & Literature Teaching* | P: 1226-2889<br>E: 2636-0837 | 등재 | 연4회 | 1995 |
+| **한국영어어문교육학회**<br>*The English Language and Literature Teaching Association of Korea* | **영어어문교육**<br>*English Language & Literature Teaching* | P: 1226-2889<br>E: 2636-0837 | 등재 | 연4회 | 1995 |
 | **한국영어평가학회**<br>*The Korea English Language Testing Association* | **영어평가**<br>*English Language Assessment* | P: 1976-491X<br>E: 2671-4086 | 등재 | 연2회 | 2007 |
 | **한국중등영어교육학회**<br>*The Korea Association of Secondary English Education (KASEE)* | **중등영어교육**<br>*Secondary English Education* | P: 1976-8222<br>E: 2671-6038 | 등재 | 연6회 | 2008 |
 | **한국초등영어교육학회**<br>*The Korea Association of Primary English Education* | **초등영어교육**<br>*Primary English Education* | P: 1226-461X<br>E: 3058-3160 | 등재 | 연4회 | 1995 |
@@ -25,7 +27,37 @@
 
 ---
 
-## 2. 일반 언어교육 및 응용언어학 분야 KCI 등재 학술지 (총 6개)
+## 2. KCI 등재(후보) 대학부설연구소 및 발행 학술지 목록 (총 22개)
+대학 산하 부설연구소 중 KCI 평가에서 등재(또는 후보) 연구소로 정식 지정된 기관들이며, 이 중 언어학 및 다국어/어학교육 연구를 전문으로 수행하는 핵심 연구소들입니다. 한국외대 외국어교육연구소를 비롯하여 실제 발행하고 있는 관련 전문 학술지 매핑을 포함합니다.
+
+| 소속대학 / 연구소명<br>(영문명) | 중분류 | 발행 학술지 (대표) | 설립일 | 공식 홈페이지 |
+| :--- | :--- | :--- | :--- | :--- |
+| **고려대학교**<br>*고려대학교 부설 한자한문연구소*<br>(nan) | 한국어와문학 | **한자한문연구 (The Journal of Chinese Characters and Classics)** | 2005.03.17 | [바로가기](http://kuhjhm.korea.ac.kr) |
+| **서울대학교**<br>*국어교육연구소*<br>(KOREAN LANGUAGE EDUCATION RESEARCH INSTITUTE) | 한국어와문학 | **국어교육학연구 (Korean Language Education Research) / 국어교육연구** | 1993.03.27 | [바로가기](http://korinst.snu.ac.kr) |
+| **고려대학교**<br>*국제한국언어문화연구소*<br>(International research Center for Korean Language and Culture) | 한국어와문학 | **한국언어문화학 (Journal of Korean Language and Culture)** | 2006.08.01 | [바로가기](http://icklc.korea.ac.kr) |
+| **서울대학교**<br>*독일어문화권연구소*<br>(Institut für deutschsprachige Kultur und Literatur) | 독일어와문학 | **독일어문화권연구 (German Cultural Studies)** | 1990.01.05 | [바로가기](http://germanstudies.snu.ac.kr/) |
+| **서울대학교**<br>*언어교육원*<br>(Language Education Institute) | 언어학 | **어학연구 (Language Research)** | 1963.01.01 | [바로가기](https://www.elanguageresearch.org/) |
+| **연세대학교**<br>*언어연구교육원 한국어학당*<br>(The Institute of Language Research and Education Yonsei University) | 교육학 | **정보 없음** | 1959.04.01 | - |
+| **세종대학교**<br>*언어연구소*<br>(Language Research Institute) | 언어학 | **언어연구 (Studies in Linguistics)** | 1996.03.02 | [바로가기](http://sejongjul.org) |
+| **경희대학교**<br>*언어정보연구소*<br>(Institute for the Study of Language and Information) | 언어학 | **언어정보 (Language and Information)** | 1975.03.01 | [바로가기](http://isli.khu.ac.kr) |
+| **서강대학교**<br>*언어정보연구소*<br>(Reasarch Institute for Language and Information) | 언어학 | **언어정보 (Language and Information)** | 2000.03.01 | [바로가기]( http://linguistics.sogang.ac.kr) |
+| **연세대학교**<br>*언어정보연구원*<br>(Institute of Language and Information Studies) | 한국어와문학 | **정보 없음** | 1989.04.01 | [바로가기](https://ilis2.yonsei.ac.kr/) |
+| **동국대학교**<br>*영어권문화연구소*<br>(Institute for Cultures of English Speaking Nations) | 영어와문학 | **영어권문화연구 (Journal of Cultures of English Speaking Nations)** | 2006.09.01 | [바로가기](https://english-culture.dongguk.edu/) |
+| **한국외국어대학교**<br>*외국어교육연구소*<br>(Institute of Foreign Language Education) | 교육학 | **외국어교육연구 (Foreign Language Education Research)** | 1981.12.18 | [바로가기](http://ifle.hufs.ac.kr/) |
+| **한국외국어대학교**<br>*일본연구소*<br>(INSTITUTE OF JAPANESE STUDIES) | 일본어와문학 | **일본연구 (Journal of Japanese Studies)** | 1990.09.01 | [바로가기](http://hufsjapan.hufs.ac.kr/) |
+| **중앙대학교**<br>*일본연구소*<br>(The Center for Japanese Studies) | 일본어와문학 | **일본연구 (Journal of Japanese Studies)** | 1979.04.01 | [바로가기](https://cajjso.jams.or.kr/co/main/jmMain.kci) |
+| **한양대학교(ERICA캠퍼스)**<br>*일본학국제비교연구소*<br>(Global Center for Japanese Studies) | 일본어와문학 | **정보 없음** | 2008.03.01 | [바로가기](http://gcjs.hanyang.ac.kr/) |
+| **한림대학교**<br>*일본학연구소*<br>(Institute of Japanese Studies) | 일본어와문학 | **정보 없음** | 1994.03.01 | [바로가기](http://japan.hallym.ac.kr ) |
+| **중앙대학교**<br>*한국교육문제연구소*<br>(The Research Institue of Korean Education) | 교육학 | **정보 없음** | 1967.03.01 | [바로가기](http://edusol.cau.ac.kr/) |
+| **동국대학교**<br>*한국문학연구소*<br>(Institute of Korean Literature Studies ) | 한국어와문학 | **정보 없음** | 1976.03.01 | [바로가기](http://koli.dongguk.edu) |
+| **고려대학교**<br>*한국어문교육연구소*<br>(Center for Literature and Language Education) | 한국어와문학 | **한국어문교육 (Korean Language & Literature Education)** | 2010.07.08 | [바로가기](http://klle.korea.ac.kr) |
+| **전남대학교**<br>*한국어문학연구소*<br>(The institute of korean language and literature in chonnam national university) | 한국어와문학 | **정보 없음** | 2003.09.01 | [바로가기](http://eomun.jnuac.kr) |
+| **경성대학교**<br>*한국한자연구소*<br>(Center for the Study of Chinese Characters in Korea) | 중국어와문학 | **한자연구 (The Journal of Chinese Characters Studies)** | 2008.11.03 | [바로가기](http://hanja.asia) |
+| **단국대학교**<br>*한문교육연구소*<br>(Institute for Research in Hanmun Education) | 한국어와문학 | **한문교육연구 (Journal of Hanmun Education)** | 2016.05.01 | [바로가기](https://cms.dankook.ac.kr/web/hanmunedu) |
+
+---
+
+## 3. 일반 언어교육 및 응용언어학 분야 KCI 등재 학술지 (학회 발행 - 총 6개)
 특정 외국어에 국한되지 않고 멀티미디어 언어 교육, 응용언어학, 이중언어 교육 및 다국어 교육학을 포괄적으로 다루는 학술지 목록입니다.
 
 | 학회명<br>(국문 / 영문) | 학술지명<br>(국문 / 영문) | ISSN | 등재구분 | 발행간기 | 창간년도 |
@@ -39,7 +71,7 @@
 
 ---
 
-## 3. 한국어 및 국어 교육 분야 KCI 등재 학술지 (총 11개)
+## 4. 한국어 및 국어 교육 분야 KCI 등재 학술지 (학회 발행 - 총 11개)
 모국어로서의 국어 교육 또는 외국어로서의 한국어 교육(KSL/KFL)을 연구하는 국내 주요 학회 및 학술지 목록입니다.
 
 | 학회명<br>(국문 / 영문) | 학술지명<br>(국문 / 영문) | ISSN | 등재구분 | 발행간기 | 창간년도 |
@@ -58,7 +90,7 @@
 
 ---
 
-## 4. 제2외국어 및 한문 교육 분야 KCI 등재 학술지 (총 7개)
+## 5. 제2외국어 및 한문 교육 분야 KCI 등재 학술지 (학회 발행 - 총 7개)
 영어 이외의 주요 제2외국어(일본어, 중국어, 독일어, 프랑스어) 및 한문 교육 분야를 전담하는 학회 및 등재 학술지 목록입니다.
 
 | 학회명<br>(국문 / 영문) | 학술지명<br>(국문 / 영문) | ISSN | 등재구분 | 발행간기 | 창간년도 |
@@ -73,4 +105,4 @@
 
 ---
 
-*본 자료는 제공된 KCI 등재 및 후보 학술지 공식 목록(2026-09-01 기준)을 분석하여 엄선한 결과입니다. '등재후보' 구분 학술지는 제외하고, 공식 '등재' 지위를 지닌 학술지만 수록하였습니다.*
+*본 분석 보고서는 제공된 공식 등재지 데이터베이스 및 대학부설연구소 등재 데이터베이스(2026-09-01 기준)를 교차 매핑하여 정밀 검증 후 컴파일되었습니다.*
