@@ -74,7 +74,7 @@ Zotero 앱 좌측 상단 폴더 아이콘을 눌러 연구 주제별 컬렉션�
 - Zotero 내장 PDF 뷰어에서 주요 문장을 하이라이트한 뒤, 우클릭하여 **`Add to Note`**를 누르면 서지 정보와 직접 연동되는 아이템 노트가 생성됩니다.
 
 ### 5. 인용 및 참고문헌 자동 생성 (Cite)
-- MS Word 또는 Google Docs에서 Zotero 탭의 **`Add/Edit Citation`**을 눌러 본문 내 인용을 삽입하고, **`Add/Edit Bibliography`**를 클릭해 APA 7th 양식의 참고문헌 목록을 자동 생성합니다.
+- MS Word 또는 Google Docs에서 Zotero 탭의 **Add/Edit Citation**을 눌러 본문 내 인용을 삽입하고, **Add/Edit Bibliography**를 클릭해 APA 7th 양식의 참고문헌 목록을 자동 생성합니다.
 ```
 
 📌
