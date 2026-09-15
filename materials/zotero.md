@@ -24,7 +24,7 @@
 
 ### **Step 2: Zotero Connector 브라우저 확장 프로그램 설치 (필수)**
 1. 동일한 다운로드 페이지에서 사용 중인 웹 브라우저(Chrome, Edge, Firefox, Safari 등)용 **Zotero Connector**를 설치합니다.
-2. 설치 후 브라우저 우측 상단 확장 프로그램 메뉴에서 Zotero Connector 아이콘을 툴바에 **고정(Pin)**합니다.
+2. 설치 후 브라우저 우측 상단 확장 프로그램 메뉴에서 Zotero Connector 아이콘을 툴바에 고정(Pin)합니다.
 
 ### **Step 3: Zotero 계정 가입 및 동기화 설정 (선택 / 권장)**
 1. [zotero.org](https://www.zotero.org) 상단 메뉴에서 무료 회원가입을 진행합니다.
