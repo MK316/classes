@@ -63,4 +63,4 @@ This course aims to familiarize graduate students with academia and the conventi
 ## 💦 Final Assignments (15주차 제출)
 
 1. 전체 세미나 성찰 리포트 (1p)
-2. 논문심사서 제출 (발표 논문 2개)
+2. 논문심사서 제출 (샘플 논문 1개)
