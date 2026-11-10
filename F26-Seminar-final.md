@@ -33,7 +33,7 @@ Take this opportunity to reflect on your experiences using the following three q
 - Is there anything you would like to learn more about?
 
 ### 3. What's next?
-- Is there a topic or question related to your teaching experience that you would like to explore further?
+- Is there a topic or question related to your teaching experience that you would like to explore further? Summarize your idea and write 2-3 research questions in the report.
 - How might you apply what you learned in this seminar to your teaching or professional development?
 
 ### ✏️ Writing Guidelines
@@ -42,7 +42,6 @@ Take this opportunity to reflect on your experiences using the following three q
 - Use your own experiences and examples from the seminar.
 - You do not need to answer every sub-question.
 - Focus on personal reflections rather than summarizing course content.
-- There are no right or wrong answers.
 
 ---
 
