@@ -12,7 +12,7 @@ You will complete **two assignments**:
 | **1. Final Reflection** | Reflect on your seminar experiences and future interests | 1 page |
 | **2. Response to Reviewers** | Respond to peer-review comments on a sample manuscript | As needed |
 
-Both assignments should be written in **English** and submitted via E-mail(mirankim316@gmail.com).
+Both assignments should be written in **English** and submitted via E-mail (mirankim316@gmail.com).
 
 ---
 
