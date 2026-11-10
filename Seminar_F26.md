@@ -40,8 +40,8 @@ This course aims to familiarize graduate students with academia and the conventi
 | 7~8 | 4 🏫 (10/13) | **국내논문 발표 ①** | 학생 2명 발표(각 20분 + 토론 15분), 지정 토론자 피드백, **리뷰어 1명의 모의 심사 리포트 공유 + 저자 응답 롤플레이** | (발표자) 슬라이드 완성 및 리허설 / (토론자) 질문 3개 이상 준비 |[Guideline](https://github.com/MK316/classes/blob/main/materials/Presentation-guide1.pdf)<br><br>[Article 1](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003143994)|
 | 9~10 | 5 🏫 (10/27) 모의고사일| **국내논문 발표 ②** | 나머지 2명 발표·토론, **리뷰어 리포트 공유 + 저자 응답** + 국내발표 총평 및 해외논문 선정 논의 | (발표자) 슬라이드 완성 및 리허설 / (토론자) 질문 3개 이상 준비 |[Article 2](https://drive.google.com/file/d/1Q4VDYhykb0Ed9KBPKS6BZJUkiToN283Y/view?usp=sharing)<br>[Article 1](https://drive.google.com/file/d/1qHTH0X0Oyw7CNzuFQsDIycwCWE7ml_dl/view?usp=sharing)|
 | 11~12 | 6 🏫 (11/10)| **해외논문 발표 ①** + 영어 학술활동 팁 | 학생 1명 발표·토론 + 국제학회 특징 | (발표자) 슬라이드 완성 및 리허설 / (토론자) 질문 3개 이상 준비 |[Article 1 KDK](https://drive.google.com/file/d/1sL2YXoQhy_F_6e8p9RWA-t6rIACPufwN/view?usp=drive_link)<br>[Article 2 CJH](https://drive.google.com/file/d/1VY1WqkdVWHD2QBXkDr58Jn7IcMJeYClJ/view?usp=drive_link)|
-| 13~14 | 7 🏫 (11/24) | **해외논문 발표 ②** | 나머지 2명 발표·토론, **리뷰어 리포트 공유 + 저자 응답**, **논뮨 심사 프로세스 + 저자 응답** | (발표자) 슬라이드 완성 및 리허설 / (토론자) 질문 3개 이상 준비 |[Article 3 JWC](https://drive.google.com/file/d/1spEAAkEyoTpOLMI8LdsgEqOknOqFjp64/view?usp=drive_link)|
-| 15 | 8 (12/15~21)| 종합 논의 + 최종 과제 제출 | 전체 발표·토론 경험 종합 토의, 연구자로서의 성장 나누기, **최종 성찰 리포트/연구관심 요약문 제출** | 최종 성찰 리포트, 논문심사서 작성 제출 |[Guideline](https://github.com/MK316/classes/blob/main/F26-Seminar-final.md)|
+| 13~14 | 7 🏫 (12/1) | **해외논문 발표 ②** | 나머지 2명 발표·토론, **리뷰어 리포트 공유 + 저자 응답**, **논뮨 심사 프로세스 + 저자 응답** | (발표자) 슬라이드 완성 및 리허설 / (토론자) 질문 3개 이상 준비 |[Article 3 JWC](https://drive.google.com/file/d/1spEAAkEyoTpOLMI8LdsgEqOknOqFjp64/view?usp=drive_link)|
+| 15 | 8 (12/15)| 종합 논의 + 최종 과제 제출(12/19까지) | 전체 발표·토론 경험 종합 토의, 연구자로서의 성장 나누기, **최종 성찰 리포트/연구관심 요약문 제출** | 최종 성찰 리포트, 논문심사서 작성 제출 |[Guideline](https://github.com/MK316/classes/blob/main/F26-Seminar-final.md)|
 
 ---
 
