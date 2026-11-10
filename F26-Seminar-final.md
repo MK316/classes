@@ -55,8 +55,8 @@ This assignment provides an opportunity to experience an important part of acade
 
 You will receive:
 
-1. A sample research manuscript
-2. Reviewers' comments on the manuscript
+1. A sample research manuscript (Google drive; password required)
+2. Reviewers' comments on the manuscript (Google drive; password required) 
 
 ### ✅ Your Task
 
@@ -72,25 +72,6 @@ Prepare a **Response to Reviewers** document following these steps:
 
 > **Important:** You do not need to revise and resubmit the entire manuscript. Your task is to explain how you would respond to the reviewers and what revisions you would make.
 
-### 💬 Example Response
-
-**Reviewer 1 — Comment 1**
-
-> The research questions need to be more clearly stated.
-
-**Author's Response**
-
-Thank you for this helpful comment. We agree that the research questions were not sufficiently clear. We would revise the final paragraph of the Introduction to state the research questions more explicitly.
-
----
-
-**Reviewer 1 — Comment 2**
-
-> The sample size is relatively small.
-
-**Author's Response**
-
-We appreciate this observation. Although the sample size cannot be increased for the present study, we would acknowledge this limitation more explicitly in the Discussion and avoid making broad generalizations.
 
 ### ✏️ Writing Guidelines
 
@@ -108,11 +89,11 @@ We appreciate this observation. Although the sample size cannot be increased for
 
 Submit the following two documents online:
 
-- **Assignment 1:** Final Reflection (1 page)
+- **Assignment 1:** Final Reflection (1~2 pages)
 - **Assignment 2:** Response to Reviewers
 
-**Language:** English  
-**Submission:** Online  
+**Language:** Korean
+**Submission:** Email  
 **Deadline:** To be announced
 
 ---
